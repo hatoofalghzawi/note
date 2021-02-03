@@ -7,3 +7,4 @@ I think I found what might suit me in text editing, as I always prefer comprehen
 
 
 As for the programming world, the options are very wide and the programs are numerous in line with the various directives of the developers, so we find programs that come with the devices themselves, but they are not very feasible as they will not modify your errors, translate or even complete your codes, and as for the development programs, there are many of them with programming basics and free or paid additions  Symbolically, including and what is comprehensive and free, purely and some of them are limited in two or three languages. You have the freedom to choose what you like and love.
+
