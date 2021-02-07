@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+#  **growth mindist**
 
-You can use the [editor on GitHub](https://github.com/hatoofalghzawi/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## ***[what does the growth mindest means](https://hbr.org/2016/01/what-having-a-growth-mindset-actually-means) ?***
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![logo](https://www.screwtheninetofive.com/wp-content/uploads/2020/01/Blog-Jan-9_-Featured.png)
 
-```markdown
-Syntax highlighted code block
+Having a growth mindset is important because it can help you overcome obstacles you may face when learning something new or developing a new skill. 
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+ Growth mindsets understand the importance of persistence and determination. By changing the way you think, you can change the way you learn.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+ ### ***difintion***: A growth mindset, proposed by Stanford professor Carol Dweck in her book Mindset, describes people who believe that their success depends on time and effort. People with a growth mindset feel their skills and intelligence can be improved with effort and persistence. They embrace challenges, persist through obstacles, learn from criticism and seek out inspiration in others’ success.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![logo](https://bemycareercoach.com/wp-content/uploads/Fixed-Mindset-vs-Growth-Mindset.png)
 
-### Jekyll Themes
+***
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hatoofalghzawi/reading-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### ***From my point of view*** I see that the developing mentality is not about time and effort, but rather in creating the fastest and most effective way to reach our desired goal with the lowest fees, so my production depends on:
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+
+   
+   1. ***Defining a new goal after each investigation to accomplish the past*** 
+
+2. ***Search for a methodology that will reach me in the most short and least costly way***
+
+3. ***Start implementing and in the event that I encounter obstacles in it, I devise a  new  method, so I always set a plan B***
+
+
+if you have any question text me here
+
+[https://github.com/hatoofalghzawi](https://github.com/hatoofalghzawi)
