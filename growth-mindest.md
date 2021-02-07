@@ -1,5 +1,8 @@
 #  **growth mindist**
 
+Helle , my name is Hatoof Alghzawi 25y old graduated 2020 from Yarmouk university modern languages
+today i will discus about mentality
+
 
 ## ***[what does the growth mindest means](https://hbr.org/2016/01/what-having-a-growth-mindset-actually-means) ?***
 
