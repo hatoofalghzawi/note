@@ -1,37 +1,67 @@
-## Welcome to GitHub Pages
+# ***[Hatoof Alghzawi](https://github.com/hatoofalghzawi/reading-notes/blob/main/README.md)*** 
 
-You can use the [editor on GitHub](https://github.com/hatoofalghzawi/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+***
+![pbic](https://scontent.famm2-3.fna.fbcdn.net/v/t1.0-9/90094699_1789546704514357_1364314250113187840_n.jpg?_nc_cat=101&ccb=2&_nc_sid=8bfeb9&_nc_eui2=AeEPPW-eWuttmvWwoMDRv-F2LCYM960szOgsJgz3rSzM6EmVDdnIjiJEKUWvgtcm3TTglQHZVF-HX3zuvQRa33vY&_nc_ohc=RDkAAC_A4uQAX8Z101K&_nc_ht=scontent.famm2-3.fna&oh=298d92a19395be75f969f0b49bdaa4d8&oe=60468AC8)
 
-### Markdown
+***
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## about me
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+I live in Irbid, 25 years old,I graduated from Yarmou,University majored in modern languages / French
+now i'm a student in LTUC univercity in course software development .
 
-1. Numbered
-2. List
+ 
+ ***
+  an ambitious, multi-talented person who loves gaining new experiences, Always passionate about what I do and those are a some of my talents:
+    
 
-**Bold** and _Italic_ and `Code` text
+*  a writer 
 
-[Link](url) and ![Image](src)
-```
+    * I have two literary posts 
+     
+    1. [silent reavel](https://www.youtube.com/watch?v=3aWEj9G7-Os) 
+    2.  [best stories book](https://www.goodreads.com/book/show/36472902) 
+    with [biblomania house for publishing](https://bibliomaniapublishing.com/)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+ * An active member of the [Asbouha Reading Project](http://www.osboha180.com/rack/)
+ *  a former theater actress in the Echo Sowt group an    
+    * a member of the Yarmouk University Choir, Oriental Singing Department
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hatoofalghzawi/reading-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+ * I participated with them in the **vidoe clip song** , which is a joint work dedicated to  **Majesty King Abdullah II** called **" domta lilamjad"**
 
-### Support or Contact
+*if you want to wach it* :  [https://www.youtube.com/watch?v=3aWEj9G7-Os](https://www.youtube.com/watch?v=3aWEj9G7-Os)
+***
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+    
+# contents table
+
+
+| files | kind |
+| ------------- | ------------- |
+ reading-notes| folder on github|
+ text editor | mark down |
+ growth mindest | mark down |
+ intro| github|
+ bug shop| html|
+
+
+
+
+
+
+
+***
+### connect info
+
+***fb*** : https://web.facebook.com/hatoof.alghzawi/
+
+***mobile phone*** 0795124525/0780216119
+
+***e-mail***  toto.bellaa@gmail.com
+
+***github*** https://github.com/hatoofalghzawi
